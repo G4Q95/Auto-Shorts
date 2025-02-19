@@ -1,0 +1,75 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXFileReference section */
+		C1634A552CF3ECA600AAAACB /* chatgpt_rewriter.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = chatgpt_rewriter.py; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		C1634A4E2CF3EB3C00AAAACB = {
+			isa = PBXGroup;
+			children = (
+				C1634A552CF3ECA600AAAACB /* chatgpt_rewriter.py */,
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		C1634A4F2CF3EB3C00AAAACB /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastUpgradeCheck = 1610;
+			};
+			buildConfigurationList = C1634A522CF3EB3C00AAAACB /* Build configuration list for PBXProject "chatgpt_rewriter" */;
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = C1634A4E2CF3EB3C00AAAACB;
+			minimizedProjectReferenceProxies = 1;
+			preferredProjectObjectVersion = 77;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		C1634A532CF3EB3C00AAAACB /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		C1634A542CF3EB3C00AAAACB /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		C1634A522CF3EB3C00AAAACB /* Build configuration list for PBXProject "chatgpt_rewriter" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C1634A532CF3EB3C00AAAACB /* Debug */,
+				C1634A542CF3EB3C00AAAACB /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = C1634A4F2CF3EB3C00AAAACB /* Project object */;
+}
